@@ -3,4 +3,3 @@
 
 
 3----> Since I will be using vs code, you can download the appropriate Python version from https://www.python.org/downloads/ or create the environment via the Anaconda application to create our Python environment.
-
